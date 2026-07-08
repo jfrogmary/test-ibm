@@ -1,0 +1,1 @@
+ find . -path ./.git -prune -o -path ./target -prune -o -print
